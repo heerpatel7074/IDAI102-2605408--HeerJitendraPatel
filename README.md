@@ -745,7 +745,21 @@ Through its combination of **functionality, interactivity, visual design, and so
 **Track your choices. Understand your impact. Shop more consciously.**
 streamlit link:https://idai102-1000676--heerjitendrapatel-lhscgnodjyngxdzydvrq38.streamlit.app/
 
-screenshots of APP :
+screenshots of APP :<img width="1813" height="862" alt="Screenshot 2026-11-25 083545" src="https://github.com/user-attachments/assets/2a38d35d-cdac-4092-961d-bef3a97cc39a" />
+<img width="1613" height="731" alt="Screenshot 2026-11-25 083601" src="https://github.com/user-attachments/assets/8fb30527-50e8-4d7b-99d2-51a67725822c" />
+<img width="1661" height="897" alt="Screenshot 2026-11-25 083708" src="https://github.com/user-attachments/assets/0b704dfe-18e5-4213-ae94-c3734c24aed7" />
+<img width="1747" height="745" alt="Screenshot 2026-11-25 083725" src="https://github.com/user-attachments/assets/119776c4-94e4-4fb8-b604-438b86664d90" />
+<img width="1786" height="820" alt="Screenshot 2026-11-25 083755" src="https://github.com/user-attachments/assets/a51ee9bf-2a8e-471b-8f94-61b57f8b0c9d" />
+<img width="1753" height="877" alt="Screenshot 2026-11-25 083846" src="https://github.com/user-attachments/assets/5dbc77d5-e451-45da-a9ee-eec6f824572c" />
+<img width="1858" height="866" alt="Screenshot 2026-11-25 083919" src="https://github.com/user-attachments/assets/a236e295-0c00-4726-aa5e-70e49baa3253" />
+<img width="1438" height="846" alt="Screenshot 2026-11-25 084044" src="https://github.com/user-attachments/assets/8271aa97-e33a-41c6-9a63-863e2bf766b3" />
+<img width="1463" height="838" alt="Screenshot 2026-11-25 084801" src="https://github.com/user-attachments/assets/96352da3-dbe9-4ea7-802d-d076498e6c48" />
+<img width="1677" height="872" alt="Screenshot 2026-11-25 084822" src="https://github.com/user-attachments/assets/1084cc4c-b0a7-4328-9344-a0ce838d5af4" />
+<img width="1567" height="868" alt="Screenshot 2026-11-25 084837" src="https://github.com/user-attachments/assets/16fde80f-b40a-4470-ae49-738489f059a5" />
+
+
+
+
 
 
 
