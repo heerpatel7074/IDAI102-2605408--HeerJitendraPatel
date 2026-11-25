@@ -745,14 +745,18 @@ Through its combination of **functionality, interactivity, visual design, and so
 **Track your choices. Understand your impact. Shop more consciously.**
 streamlit link:https://idai102-1000676--heerjitendrapatel-lhscgnodjyngxdzydvrq38.streamlit.app/
 
-screenshots of APP :<img width="1776" height="867" alt="Screenshot 2026-11-07 004916" src="https://github.com/user-attachments/assets/1f367a09-33cb-40a5-80dd-84284b538c61" />
-<img width="1727" height="815" alt="Screenshot 2026-11-07 004843" src="https://github.com/user-attachments/assets/3f9def33-a752-4c09-9001-ae77b5a293eb" />
-<img width="1670" height="870" alt="Screenshot 2026-11-07 004828" src="https://github.com/user-attachments/assets/f46e760e-cb84-4e93-9ffa-0a86cea85762" />
-<img width="1881" height="832" alt="Screenshot 2026-11-07 004810" src="https://github.com/user-attachments/assets/34fda3aa-88aa-4dcb-bbac-0a8993e2e156" />
-<img width="1712" height="825" alt="Screenshot 2026-11-07 004754" src="https://github.com/user-attachments/assets/79f276e0-df8b-4004-9513-24b447482fd8" />
-<img width="1356" height="791" alt="Screenshot 2026-11-07 004708" src="https://github.com/user-attachments/assets/53aa3ec5-da4a-414f-b2f5-16b315174a8c" />
-<img width="1658" height="823" alt="Screenshot 2026-11-07 004654" src="https://github.com/user-attachments/assets/999b0d63-8aa6-4f76-b6d3-68818d691a05" />
-<img width="1842" height="837" alt="Screenshot 2026-11-07 004619" src="https://github.com/user-attachments/assets/40be1833-ed8d-4baf-9d73-547c6eeef229" />
+screenshots of APP :<img width="1776" height="867" alt="Screenshot 2026-11-07 004916" src="https://github.com/user-attachments/assets/09e33ee1-2808-403f-a992-0c1dfc9d4f13" />
+<img width="1842" height="837" alt="Screenshot 2026-11-07 004619" src="https://github.com/user-attachments/assets/acceb4d7-a20b-4f68-b6fc-8f2e91a041c8" />
+
+<img width="1727" height="815" alt="Screenshot 2026-11-07 004843" src="https://github.com/user-attachments/assets/d2d6cc3c-5de9-40c6-9a81-828ea25ce2b1" />
+<img width="1881" height="832" alt="Screenshot 2026-11-07 004810" src="https://github.com/user-attachments/assets/506fe064-cfb9-43f4-804d-9ed02d7d17fa" />
+<img width="1712" height="825" alt="Screenshot 2026-11-07 004754" src="https://github.com/user-attachments/assets/6b181468-e13d-4088-a4da-df3ff1d54f4f" />
+<img width="1670" height="870" alt="Screenshot 2026-11-07 004828" src="https://github.com/user-attachments/assets/fbea9f00-e855-4294-be1b-501805740f49" />
+
+
+
+
+
 
 
 
