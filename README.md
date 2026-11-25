@@ -745,14 +745,7 @@ Through its combination of **functionality, interactivity, visual design, and so
 **Track your choices. Understand your impact. Shop more consciously.**
 streamlit link:https://idai102-1000676--heerjitendrapatel-lhscgnodjyngxdzydvrq38.streamlit.app/
 
-screenshots of APP :<img width="1776" height="867" alt="Screenshot 2026-11-07 004916" src="https://github.com/user-attachments/assets/09e33ee1-2808-403f-a992-0c1dfc9d4f13" />
-<img width="1842" height="837" alt="Screenshot 2026-11-07 004619" src="https://github.com/user-attachments/assets/acceb4d7-a20b-4f68-b6fc-8f2e91a041c8" />
-
-<img width="1727" height="815" alt="Screenshot 2026-11-07 004843" src="https://github.com/user-attachments/assets/d2d6cc3c-5de9-40c6-9a81-828ea25ce2b1" />
-<img width="1881" height="832" alt="Screenshot 2026-11-07 004810" src="https://github.com/user-attachments/assets/506fe064-cfb9-43f4-804d-9ed02d7d17fa" />
-<img width="1712" height="825" alt="Screenshot 2026-11-07 004754" src="https://github.com/user-attachments/assets/6b181468-e13d-4088-a4da-df3ff1d54f4f" />
-<img width="1670" height="870" alt="Screenshot 2026-11-07 004828" src="https://github.com/user-attachments/assets/fbea9f00-e855-4294-be1b-501805740f49" />
-
+screenshots of APP :
 
 
 
